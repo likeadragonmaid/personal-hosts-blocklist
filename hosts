@@ -1,0 +1,74 @@
+#uc browser tracking
+
+0.0.0.0 gjapplog.ucweb.com
+0.0.0.0 gjapplog.ucweb.com.lan
+0.0.0.0 invalid.gjapplog.ucweb.com
+0.0.0.0 invalid.gjapplog.ucweb.com.lan
+
+
+#oppo tracking
+
+0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 log-eap.coloros.com
+0.0.0.0 io91b-ocloud.heytapmobile.com
+0.0.0.0 appconf.heytapdownload.com
+0.0.0.0 album-in01a-ocloud.heytapmobile.com
+0.0.0.0 dragate-in-dc.heytapmobile.com
+0.0.0.0 gslb-gl.cdo.heytapmobi.com
+0.0.0.0 api-in.store.heytapmobi.com
+0.0.0.0 conn1.oppomobile.com.lan
+
+
+#snapchat extras
+
+0.0.0.0 mvm.snapchat.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 chat-gateway-prod.chat.snapchat.com
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 asia-southeast1-gcp.api.snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 gcp.api.snapchat.com
+
+
+#vivo tracking
+
+0.0.0.0 exappupgrade.vivoglobal.com
+0.0.0.0 sysupgrade-api.vivoglobal.com
+0.0.0.0 err-up.vivoglobal.com
+0.0.0.0 ro-up.vivoglobal.com
+0.0.0.0 in-main-appstore.vivoglobal.com
+0.0.0.0 browser.vivoglobal.com
+0.0.0.0 ex-rommc-api.vivoglobal.com
+0.0.0.0 az.appstore.vivo.com.cn
+
+
+#china tracking
+
+0.0.0.0 beaconqi.qq.com
+0.0.0.0 intldlgs.qq.com
+
+
+#other tracking
+0.0.0.0 in.wzrkt.com
+0.0.0.0 usa-usage.ime.cooktek.com
+
+#tinder
+
+0.0.0.0 tinder.com
+
+
+#instagram extras
+	
+0.0.0.0 instagram.fluh1-1.fna.fbcdn.net
+
+
+#facebook extras
+0.0.0.0 graph.facebook.com
+
+
+#porn
+
+0.0.0.0 xvideos.es
+0.0.0.0 rajwap.xyz
+0.0.0.0 xvideos2.com
+0.0.0.0 xnxx.es
