@@ -1,3 +1,11 @@
+#touchpal keyboard/keylogger
+
+0.0.0.0 usa.ime.cootek.com
+0.0.0.0 usa.ime.cdn.cootekservice.com
+0.0.0.0 usa-usage.ime.cootek.com
+0.0.0.0 usa-usage.ime.cooktek.com
+
+
 #uc browser tracking
 
 0.0.0.0 gjapplog.ucweb.com
@@ -6,17 +14,77 @@
 0.0.0.0 invalid.gjapplog.ucweb.com.lan
 
 
+#xiaomi
+
+0.0.0.0 i2-urc.io.mi.com
+0.0.0.0 i2.api.io.mi.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 idmb.app.chat.global.xiaomi.net
+0.0.0.0 idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
+0.0.0.0 thm.market.intl.xiaomi.com
+0.0.0.0 account.xiaomi.com
+0.0.0.0 in.find.api.micloud.xiaomi.net
+0.0.0.0 find.api.micloud.xiaomi.net
+0.0.0.0 in.galleryapi.micloud.xiaomi.net
+0.0.0.0 t2.a.market.xiaomi.com
+
+
+#truecaller
+
+0.0.0.0 ads-router-noneu.truecaller.com
+0.0.0.0 batchlogging4-noneu.truecaller.com
+
+
+#microsoft logging
+
+0.0.0.0 templatelogging.office.com
+
+
+#zoom logging
+
+0.0.0.0 logfiles.zoom.us
+0.0.0.0 logfiles.zoom.us.lan
+
+
+#paytm logging
+
+0.0.0.0 mas-log.paas.paytm.com
+0.0.0.0 accounts-analyticsapp.paytm.com
+
+
 #oppo tracking
 
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 log-eap.coloros.com
+0.0.0.0 log-eap-in.coloros.com
 0.0.0.0 io91b-ocloud.heytapmobile.com
 0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 album-in01a-ocloud.heytapmobile.com
+0.0.0.0 dragate-in.dc.heytapmobi.com
 0.0.0.0 dragate-in-dc.heytapmobile.com
+0.0.0.0 dragate-sg.dc.oppomobile.com
 0.0.0.0 gslb-gl.cdo.heytapmobi.com
 0.0.0.0 api-in.store.heytapmobi.com
+0.0.0.0 conn1.oppomobile.com
 0.0.0.0 conn1.oppomobile.com.lan
+0.0.0.0 dc.foreign.oppomobile.com
+0.0.0.0 i-in01a-ocloud.heytapmobile.com
+0.0.0.0 client-uc.heytapmobi.com
+0.0.0.0 epoch-in.cdo.heytapmobi.com
+0.0.0.0 sms-in.ads.oppomobile.com
+0.0.0.0 httpdns.push.oppomobile.com.lan
+0.0.0.0 conf-in-dc.heytapmobile.com
+0.0.0.0 conn2.oppomobile.com
+0.0.0.0 0ec28f3c6c22b5274aa85d36287c0f3f.clo.footprintdns.com
+0.0.0.0 conff.dc.oppomobile.com
+0.0.0.0 proxyf.apps.oppomobile.com
+0.0.0.0 stickerf.apps.oppomobile.com
+0.0.0.0 meta-grom.apps.coloros.com
+0.0.0.0 videoclipf.apps.coloros.com
+0.0.0.0 icosa-sg.coloros.com
+0.0.0.0 classify.apps.coloros.com
 
 
 #snapchat extras
@@ -28,6 +96,9 @@
 0.0.0.0 asia-southeast1-gcp.api.snapchat.com
 0.0.0.0 app.snapchat.com
 0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
+0.0.0.0 cognac-prod.appspot.com
 
 
 #vivo tracking
@@ -40,30 +111,135 @@
 0.0.0.0 browser.vivoglobal.com
 0.0.0.0 ex-rommc-api.vivoglobal.com
 0.0.0.0 az.appstore.vivo.com.cn
+0.0.0.0 vbw.vivoglobal.com
+0.0.0.0 browserproxy.vivo.com
+0.0.0.0 st-sl.vivoglobal.com
+0.0.0.0 download.api.vivoglobal.com
+0.0.0.0 romsp.vivoglobal.com
+0.0.0.0 in-assistant-movie.vivoglobal.com
+0.0.0.0 st-exappupgrade.vivoglobal.com
+0.0.0.0 in-joviexscene.vivoglobal.com.lan
+0.0.0.0 vivosec.baidu.com
+0.0.0.0 wifi.vivo.com.cn
+0.0.0.0 ro.up.vivoglobal.com
+0.0.0.0 in-exappprt-stsdk.vivoglobal.com
+0.0.0.0 static.p.vivoglobal.com
+0.0.0.0 stp.vivoglobal.com
 
 
-#china tracking
+#chinese domains/tracking
 
 0.0.0.0 beaconqi.qq.com
 0.0.0.0 intldlgs.qq.com
+0.0.0.0 msch.f.360.cn
+0.0.0.0 storedl5f.nearme.com.cn
+0.0.0.0 i.romscratchcard.nearme.com.cn
+0.0.0.0 magzineimgf-in2.nearme.com.cn
+0.0.0.0 u3.in.teddymobile.cn
+0.0.0.0 110-n.in.teddymobile.cn
+0.0.0.0 110-n.in.teddymobile.cn.lan
+0.0.0.0 sina.cn
+0.0.0.0 wap.sogou.com
+0.0.0.0 sogou.com
+0.0.0.0 baidu.com
+0.0.0.0 www.baidu.com
+0.0.0.0 m.baidu.com
+0.0.0.0 dns.map.baidu.com
+0.0.0.0 midas.gtimg.cn
+0.0.0.0 api.map.baidu.com
 
 
-#other tracking
+#mediatek
+
+0.0.0.0 pgepodownload.mediatek.com
+
+
+#other tracking/popups
 0.0.0.0 in.wzrkt.com
-0.0.0.0 usa-usage.ime.cooktek.com
+0.0.0.0 xtrapath2.izatcloud.net
+0.0.0.0 agoda.com
+0.0.0.0 bento.agoda.com
+0.0.0.0 sapi.skyhookwireless.com
+0.0.0.0 target-cdn.teppalib.com
+0.0.0.0 tracking.a-mo.net
+
 
 #tinder
 
 0.0.0.0 tinder.com
+0.0.0.0 gotinder.com
+0.0.0.0 tindersparks.com
+0.0.0.0 web.c.ue1az.gotinder.com
+0.0.0.0 www.gotinder.com
+0.0.0.0 www.tindersparks.com.lan
+0.0.0.0 www.tindersparks.com
+0.0.0.0 gottinder.com
+0.0.0.0 app.tinder.com.lan
+
+
+#grindr
+
+0.0.0.0 grindr.com
+0.0.0.0 help.grindr.com
+0.0.0.0 cdns.grindr.com
+0.0.0.0 grindr.mobi
+0.0.0.0 presence.grindr.com
+0.0.0.0 web.grindr.com
+0.0.0.0 grindrbloop.com
+0.0.0.0 grindr.lan
+0.0.0.0 grindr.zendesk.com
+0.0.0.0 www.grindr.com
+0.0.0.0 grindr.com.cdn.cloudflare.net
+0.0.0.0 www.grindr.com.cdn.cloudflare.net
 
 
 #instagram extras
 	
 0.0.0.0 instagram.fluh1-1.fna.fbcdn.net
+0.0.0.0 instagram.fixc4-1.fna.fbcdn.net
+0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net.lan
+0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
+0.0.0.0 b.i.instagram.com
 
 
-#facebook extras
+#emoji keyboard
+
+0.0.0.0 litestatis.facemojikeyboard.com
+0.0.0.0 api.facemojikeyboard.com
+0.0.0.0 globalapi.facemojikeyboard.com
+0.0.0.0 litemsg.facemojikeyboard.com
+
+
+#avast
+
+0.0.0.0 tracking.a-mo.net.lan
+0.0.0.0 tracking.a-mo.net
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 stats.avastbrowser.com
+0.0.0.0 v7.stats.avast.com
+0.0.0.0 v7.stats.avast.com.lan
+0.0.0.0 v7.stats.avast.com.home
+0.0.0.0 v7event.stats.avast.com.lan
+0.0.0.0 v7event.stats.avast.com.home
+
+
+#facebook services logging
 0.0.0.0 graph.facebook.com
+0.0.0.0 graph.fbpigeon.com
+0.0.0.0 b-graph.facebook.com
+
+
+#fake news
+
+0.0.0.0 data.dailyhunt.in
+0.0.0.0 dailyhunt.in
+0.0.0.0 assets-news-bcdn.dailyhunt.in
+0.0.0.0 money.dailyhunt.in
+0.0.0.0 ugc-users.dailyhunt.in
+0.0.0.0 api-news.dailyhunt.in
+0.0.0.0 obelix-sync-pull-notification-prod-n7.dailyhunt.in
+0.0.0.0 m.dailyhunt.in
+0.0.0.0 naya24daily.com
 
 
 #porn
@@ -72,3 +248,13 @@
 0.0.0.0 rajwap.xyz
 0.0.0.0 xvideos2.com
 0.0.0.0 xnxx.es
+0.0.0.0 www.xnxx2.com
+0.0.0.0 xnxx2.com
+0.0.0.0 xvideos3.com
+0.0.0.0 vid1-l3.xnxx-cdn.com
+0.0.0.0 vid1-l3.xvideos-cdn.com
+0.0.0.0 img-hw.xnxx-cdn.com
+0.0.0.0 img-hw.xvideos-cdn.com
+0.0.0.0 static-l3.xnxx-cdn.com
+0.0.0.0 cdn77-pic.xvideos-cdn.com
+0.0.0.0 www.xvideos3.com
