@@ -28,18 +28,60 @@
 0.0.0.0 in.find.api.micloud.xiaomi.net
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 in.galleryapi.micloud.xiaomi.net
+0.0.0.0 t4.market.xiaomi.com
+0.0.0.0 t5.market.mi-img.com
 0.0.0.0 t2.a.market.xiaomi.com
+0.0.0.0 global.market.xiaomi.com
+0.0.0.0 d.g.mi.com
+0.0.0.0 in.browserapi.micloud.xiaomi.net
+0.0.0.0 inac.account.xiaomi.com
+0.0.0.0 api.input.intl.miui.com
+0.0.0.0 cse.avlyun.sec.miui.com
+0.0.0.0 au.ff.avast.sec.miui.com
+0.0.0.0 log.avlyun.sec.intl.miui.com
+0.0.0.0 jupiter.intl.sys.miui.com
+0.0.0.0 api.zhuti.intl.xiaomi.com
+0.0.0.0 api.accelerator.intl.miui.com
+0.0.0.0 api.gallery.intl.miui.com
+0.0.0.0 in.pdc.micloud.xiaomi.net
+0.0.0.0 in.noteapi.micloud.xiaomi.net
+0.0.0.0 in.contactapi.micloud.xiaomi.net
+0.0.0.0 in.micardapi.micloud.xiaomi.net
+0.0.0.0 in.phonecallapi.micloud.xiaomi.net
+0.0.0.0 in.smsapi.micloud.xiaomi.net
+0.0.0.0 in.wifiapi.micloud.xiaomi.net
+0.0.0.0 in.statusapi.micloud.xiaomi.net
+0.0.0.0 f2.market.xiaomi.com
+0.0.0.0 relocationapi.micloud.xiaomi.net
+0.0.0.0 i.mi.com
+0.0.0.0 api.launcher.intl.miui.com
+0.0.0.0 t14.market.mi-img.com
+0.0.0.0 ac.account.xiaomi.com
+0.0.0.0 t5.a.market.xiaomi.com
+0.0.0.0 t3.market.mi-img.com
+0.0.0.0 api.competition.intl.miui.com
+0.0.0.0 abroad.api.comm.intl.miui.com
+0.0.0.0 sdk.irdatabase.com
+0.0.0.0 idmb.register.xmpush.global.xiaomi.com
+0.0.0.0 update.intl.miui.com
+0.0.0.0 fgb0.market.xiaomi.com
+0.0.0.0 sdkconfig.ad.india.xiaomi.com
+0.0.0.0 sp-766ec786.vps-v4.u.avcdn.net
+0.0.0.0 port.sec.intl.miui.com
 
 
 #truecaller
 
 0.0.0.0 ads-router-noneu.truecaller.com
+0.0.0.0 ads5-noneu.truecaller.com
 0.0.0.0 batchlogging4-noneu.truecaller.com
 
 
-#microsoft logging
+#microsoft tracking
 
 0.0.0.0 templatelogging.office.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 substrate.office.com
 
 
 #zoom logging
@@ -52,6 +94,17 @@
 
 0.0.0.0 mas-log.paas.paytm.com
 0.0.0.0 accounts-analyticsapp.paytm.com
+
+
+#spotify tracking
+
+0.0.0.0 spclient.wg.spotify.com
+
+
+#grammerly
+
+0.0.0.0 f-log-extension.grammarly.io
+0.0.0.0 data.grammarly.com
 
 
 #oppo tracking
@@ -76,6 +129,7 @@
 0.0.0.0 sms-in.ads.oppomobile.com
 0.0.0.0 httpdns.push.oppomobile.com.lan
 0.0.0.0 conf-in-dc.heytapmobile.com
+0.0.0.0 dhfs.heytapimage.com
 0.0.0.0 conn2.oppomobile.com
 0.0.0.0 0ec28f3c6c22b5274aa85d36287c0f3f.clo.footprintdns.com
 0.0.0.0 conff.dc.oppomobile.com
@@ -85,10 +139,12 @@
 0.0.0.0 videoclipf.apps.coloros.com
 0.0.0.0 icosa-sg.coloros.com
 0.0.0.0 classify.apps.coloros.com
+0.0.0.0 inapi.open.oppomobile.com
 
 
 #snapchat extras
 
+0.0.0.0 snap.com
 0.0.0.0 mvm.snapchat.com
 0.0.0.0 aws.api.snapchat.com
 0.0.0.0 chat-gateway-prod.chat.snapchat.com
@@ -99,6 +155,12 @@
 0.0.0.0 aws.duplex.snapchat.com
 0.0.0.0 us-east4-gcp.api.snapchat.com
 0.0.0.0 cognac-prod.appspot.com
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 gtq.sct.sc-prod.net
+0.0.0.0 gcs.sc-cdn.net
+0.0.0.0 loca.sc-jpl.com
+0.0.0.0 bolt-gcdn.sc-cdn.net
+0.0.0.0 cf-st.sc-cdn.net
 
 
 #vivo tracking
@@ -129,6 +191,8 @@
 
 #chinese domains/tracking
 
+0.0.0.0 qq.com
+0.0.0.0 360.com
 0.0.0.0 beaconqi.qq.com
 0.0.0.0 intldlgs.qq.com
 0.0.0.0 msch.f.360.cn
@@ -147,21 +211,189 @@
 0.0.0.0 dns.map.baidu.com
 0.0.0.0 midas.gtimg.cn
 0.0.0.0 api.map.baidu.com
+0.0.0.0 up.cm.ksmobile.com
+0.0.0.0 vmp.qq.com
+0.0.0.0 astat.bugly.qcloud.com
+0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 hk.clientreport.gfm.qq.com
+0.0.0.0 hk.clientreport.gfm.qq.com.lan
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 dbankcloud.com
+0.0.0.0 grs.dbankcloud.eu.home
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 cloudres-dra.dbankcdn.com
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 openapi5.dbank.com
+0.0.0.0 appoptimize-dra.dbankcdn.com.home
+0.0.0.0 appdl2.dbankcdn.com
+
+#qq game tracking
+
+0.0.0.0 dldir1.qq.com
+0.0.0.0 report.syzs.qq.com
+0.0.0.0 qbwup.imtt.qq.com
+0.0.0.0 masterconn.qq.com
+0.0.0.0 masterconn2.qq.com
+0.0.0.0 masterconn11.qq.com
+0.0.0.0 master.etl.desktop.qq.com
+0.0.0.0 btrace.qq.com
+0.0.0.0 downloadtpt.gamedl.qq.com
+0.0.0.0 c.gj.qq.com
+0.0.0.0 ga.gamedl.qq.com
+0.0.0.0 myapp.com
+0.0.0.0 gamedl.qq.com
+0.0.0.0 stat.gamedl.qq.com
+0.0.0.0 p2pupdate.gamedl.qq.com
+0.0.0.0 stun.qqlive.qq.com
+0.0.0.0 ps2.gamedl.qq.com
+0.0.0.0 config.gamedl.qq.com
+0.0.0.0 p2pupgrade.gamedl.qq.com
+0.0.0.0 syzs.qq.com
+0.0.0.0 s.syzs.qq.com
+0.0.0.0 guanjia.qq.com
+0.0.0.0 sy.guanjia.qq.com
+0.0.0.0 gameloop.fun
+0.0.0.0 s.gameloop.fun
+0.0.0.0 sy.gameloop.fun
 
 
 #mediatek
 
 0.0.0.0 pgepodownload.mediatek.com
+0.0.0.0 pepodownload.mediatek.com
+
+#qualcomm
+
+0.0.0.0 config.qms.quicinc.com
 
 
 #other tracking/popups
+
 0.0.0.0 in.wzrkt.com
 0.0.0.0 xtrapath2.izatcloud.net
 0.0.0.0 agoda.com
 0.0.0.0 bento.agoda.com
 0.0.0.0 sapi.skyhookwireless.com
 0.0.0.0 target-cdn.teppalib.com
-0.0.0.0 tracking.a-mo.net
+0.0.0.0 beacon.s-onetag.com
+0.0.0.0 tsg.tdatamaster.com
+0.0.0.0 image.timespoints.iimg.in
+0.0.0.0 websdk.appsflyer.com
+0.0.0.0 appsflyer.com
+0.0.0.0 b-s.tercept.com
+0.0.0.0 usa.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 tml.clmbtech.com
+0.0.0.0 opt.toiimg.com
+0.0.0.0 serverg.apxor.com
+0.0.0.0 simejiglobal.com
+0.0.0.0 capi.hungama.com
+0.0.0.0 schemas.casa
+0.0.0.0 sharenotes.co
+0.0.0.0 event.shelljacket.us
+0.0.0.0 api.hsselite.com
+0.0.0.0 script.4dex.io
+0.0.0.0 andbeyond.media
+0.0.0.0 global.cloud.netacuity.com
+0.0.0.0 footprintdns.com
+0.0.0.0 catalog.gamepass.com
+0.0.0.0 sync.taboola.com
+0.0.0.0 ads.everesttech.net
+0.0.0.0 doubleverify.com
+0.0.0.0 ups.analytics.yahoo.com
+0.0.0.0 d9.flashtalking.com
+0.0.0.0 id.amgdgt.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 safeframe.googlesyndication.com
+0.0.0.0 pixel-sync.sitescout.com
+0.0.0.0 dmx.districtm.io
+0.0.0.0 hb-api.omnitagjs.com
+0.0.0.0 web.hb.ad.cpe.dotomi.com
+0.0.0.0 cms-xch-chicago.33across.com
+0.0.0.0 a.clickcertain.com
+0.0.0.0 simage4.pubmatic.com
+0.0.0.0 sync.technoratimedia.com
+0.0.0.0 cdn.districtm.io
+0.0.0.0 jwplayer.com
+0.0.0.0 cdn.jwplayer.com
+0.0.0.0 adpushup-d.openx.net
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 mediawallahscript.com
+0.0.0.0 partner.mediawallahscript.com
+0.0.0.0 pxl.connexity.net
+0.0.0.0 blip.bizrate.com
+0.0.0.0 sync.sharethis.com
+0.0.0.0 in.xspadvertising.com
+0.0.0.0 dco-assets.everestads.net
+0.0.0.0 snap.licdn.com
+0.0.0.0 c.sf-syn.com
+0.0.0.0 zemanta.com
+0.0.0.0 pubgalaxy.com
+0.0.0.0 pubgalaxy-com.videoplayerhub.com
+0.0.0.0 cookiebot.com
+0.0.0.0 typekit.net
+0.0.0.0 pre.glotgrx.com
+0.0.0.0 upapi.net
+0.0.0.0 backend.upapi.net
+0.0.0.0 mrb.upapi.net
+0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 static.quantcast.mgr.consensu.org
+0.0.0.0 cdn.playwire.com
+0.0.0.0 cdn.video.playwire.com
+0.0.0.0 config.playwire.com
+0.0.0.0 crl.comodoca.com
+0.0.0.0 retargetly.com
+0.0.0.0 app.retargetly.com
+0.0.0.0 vidazoo.com
+0.0.0.0 static.vidazoo.com
+0.0.0.0 bis.vidazoo.com
+0.0.0.0 outbrain-d.openx.net
+0.0.0.0 inventory.vidazoo.com
+0.0.0.0 match.adsby.bidtheatre.com
+0.0.0.0 dmp.truoptik.com
+0.0.0.0 cdn.intergient.com
+0.0.0.0 sync.bumlam.com
+0.0.0.0 sync.jivox.com
+0.0.0.0 grey.erne.co
+0.0.0.0 global.ib-ibi.com
+0.0.0.0 sync.colossusssp.com
+0.0.0.0 uipglob.semasio.net
+0.0.0.0 vop.sundaysky.com
+0.0.0.0 audex.userreport.com
+0.0.0.0 sync.spotim.market
+0.0.0.0 sync.widespace.com
+0.0.0.0 bpi.rtactivate.com
+0.0.0.0 mid.rkdms.com
+0.0.0.0 prod.y-medialink.com
+0.0.0.0 cksync.yahoo.co.jp
+0.0.0.0 sync.extend.tv
+0.0.0.0 cm.adform.net
+0.0.0.0 360yield.com
+0.0.0.0 ice.360yield.com
+0.0.0.0 na-ice.360yield.com
+0.0.0.0 firstimpression-d.openx.net
+0.0.0.0 firstimpression.io
+0.0.0.0 tracking1.firstimpression.io
+0.0.0.0 e1.emxdgt.com
+0.0.0.0 cms-xch.33across.com
+0.0.0.0 cm.adgrx.com
+0.0.0.0 subscription.omnithrottle.com
+0.0.0.0 widget.as.criteo.com
+0.0.0.0 img.onesignal.com
+0.0.0.0 id.geistm.com
+0.0.0.0 px.powerlinks.com
+0.0.0.0 sync-jp.im-apps.net
+0.0.0.0 id.rlcdn.com
+0.0.0.0 cheqzone.com
+0.0.0.0 casalemedia.com
+0.0.0.0 ssp.yahoo.com
+0.0.0.0 contributor.google.com
+0.0.0.0 ogs.google.com
+0.0.0.0 ecdn.analysis.fi
+0.0.0.0 cdn-magiclinks.trackonomics.net
 
 
 #tinder
@@ -199,6 +431,7 @@
 0.0.0.0 instagram.fixc4-1.fna.fbcdn.net
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net.lan
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
+0.0.0.0 instagram.fluh2-1.fna.fbcdn.net
 0.0.0.0 b.i.instagram.com
 
 
@@ -208,6 +441,15 @@
 0.0.0.0 api.facemojikeyboard.com
 0.0.0.0 globalapi.facemojikeyboard.com
 0.0.0.0 litemsg.facemojikeyboard.com
+0.0.0.0 g-api.facemojikeyboard.com
+
+
+#bitstrips/bitmoji
+
+0.0.0.0 bitmoji.com
+0.0.0.0 images.bitmoji.com
+0.0.0.0 support.bitmoji.com
+0.0.0.0 bitstrips.com
 
 
 #avast
@@ -221,12 +463,32 @@
 0.0.0.0 v7.stats.avast.com.home
 0.0.0.0 v7event.stats.avast.com.lan
 0.0.0.0 v7event.stats.avast.com.home
+0.0.0.0 engagement.avastbrowser.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ff.avast.com
+0.0.0.0 ncc.avast.com
+0.0.0.0 nuistatic.avcdn.net
 
 
 #facebook services logging
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fbpigeon.com
 0.0.0.0 b-graph.facebook.com
+
+
+#gameloft tracking
+
+0.0.0.0 asa-hermes.gameloft.com
+0.0.0.0 201205igp.gameloft.com
+0.0.0.0 asa-osiris.gameloft.com
+0.0.0.0 asa-1-etsv2-pek.wshtgame.com
+0.0.0.0 asa-anubisfinder.gameloft.com
+0.0.0.0 asa-lobby-fsg004.gameloft.com
+0.0.0.0 oct.wshtgame.com
+0.0.0.0 iris07-gold-ssl.gameloft.com
+0.0.0.0 asa-iris.gameloft.com
+0.0.0.0 asa-janus.gameloft.com
+0.0.0.0 vgold-asa.gameloft.com
 
 
 #fake news
