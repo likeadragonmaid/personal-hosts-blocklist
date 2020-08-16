@@ -87,6 +87,7 @@
 #zoom logging
 
 0.0.0.0 logfiles.zoom.us
+0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 logfiles.zoom.us.lan
 
 
@@ -394,6 +395,24 @@
 0.0.0.0 ogs.google.com
 0.0.0.0 ecdn.analysis.fi
 0.0.0.0 cdn-magiclinks.trackonomics.net
+0.0.0.0 track.voluum.top
+0.0.0.0 track.magictavern.com
+0.0.0.0 tracking.g2crowd.com
+0.0.0.0 track.rocketmedia24.com
+0.0.0.0 tracker.arc.io
+0.0.0.0 api.ibeat-analytics.com
+0.0.0.0 analytics.gov.yk.ca
+0.0.0.0 analytics.hardlightgames.com
+0.0.0.0 analytics.videoshowglobalserver.com
+0.0.0.0 analytics.ubports.com
+0.0.0.0 stats.wynk.in
+0.0.0.0 stats.gixioanalytics.com
+0.0.0.0 stats.karere.mega.nz
+0.0.0.0 download-stats.mozilla.org
+0.0.0.0 page-events-ustats.udemy.com
+0.0.0.0 stats.kde.org
+0.0.0.0 stats.hprofits.com
+0.0.0.0 stats.ghostery.net
 
 
 #tinder
@@ -459,6 +478,7 @@
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 stats.avastbrowser.com
 0.0.0.0 v7.stats.avast.com
+0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v7.stats.avast.com.lan
 0.0.0.0 v7.stats.avast.com.home
 0.0.0.0 v7event.stats.avast.com.lan
@@ -510,6 +530,7 @@
 0.0.0.0 rajwap.xyz
 0.0.0.0 xvideos2.com
 0.0.0.0 xnxx.es
+0.0.0.0 www.xnxx.es
 0.0.0.0 www.xnxx2.com
 0.0.0.0 xnxx2.com
 0.0.0.0 xvideos3.com
@@ -520,3 +541,7 @@
 0.0.0.0 static-l3.xnxx-cdn.com
 0.0.0.0 cdn77-pic.xvideos-cdn.com
 0.0.0.0 www.xvideos3.com
+0.0.0.0 static-hw.xnxx-cdn.com
+0.0.0.0 vid4-l3.xnxx-cdn.com
+0.0.0.0 img-l3.xnxx-cdn.com
+0.0.0.0 indiansexvideosdesi.com
