@@ -491,7 +491,6 @@
 
 
 #facebook services logging
-0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fbpigeon.com
 0.0.0.0 b-graph.facebook.com
 
@@ -522,6 +521,7 @@
 0.0.0.0 obelix-sync-pull-notification-prod-n7.dailyhunt.in
 0.0.0.0 m.dailyhunt.in
 0.0.0.0 naya24daily.com
+0.0.0.0 storiespace.com
 
 
 #porn
@@ -539,6 +539,7 @@
 0.0.0.0 img-hw.xnxx-cdn.com
 0.0.0.0 img-hw.xvideos-cdn.com
 0.0.0.0 static-l3.xnxx-cdn.com
+0.0.0.0 cdn77-pic.xnxx-cdn.com
 0.0.0.0 cdn77-pic.xvideos-cdn.com
 0.0.0.0 www.xvideos3.com
 0.0.0.0 static-hw.xnxx-cdn.com
