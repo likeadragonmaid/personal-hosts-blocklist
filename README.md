@@ -1,6 +1,8 @@
 # Personal Hosts Blocklist
 
-I have collected some blacklisted domains while running pi hole on my network. These hosts serve as an additional list to what I already use as listed below:
+### A list of domains I block on my network.
+
+I have made this hosts list by running pi hole on my network along with some domains that I added manually later on. These hosts serve as an additional list to what I already use as listed below:
 
 https://mirror1.malwaredomains.com/files/justdomains
 

@@ -141,6 +141,49 @@
 0.0.0.0 icosa-sg.coloros.com
 0.0.0.0 classify.apps.coloros.com
 0.0.0.0 inapi.open.oppomobile.com
+0.0.0.0 in-store.oppomobile.com
+0.0.0.0 adsfs-in.oppomobile.com
+0.0.0.0 cloudi-sg.browser.oppomobile.com
+0.0.0.0 igslb.cdo.oppomobile.com.lan
+0.0.0.0 httpdns.push.oppomobile.com
+0.0.0.0 httpdns.ocloud.oppomobile.com
+0.0.0.0 statf.dc.oppomobile.com
+0.0.0.0 adx-in.ads.oppomobile.com
+0.0.0.0 inapi.open.oppomobile.com.lan
+0.0.0.0 htms.heytapmobile.com
+0.0.0.0 conf-in.dc.heytapmobi.com
+0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 httpdns-ocloud.heytapmobile.com
+0.0.0.0 api-gl.cdo.heytapmobi.com
+0.0.0.0 omes-sec.heytapmobile.com
+0.0.0.0 icredits.heytapmobi.com
+0.0.0.0 cl-data-in.ads.heytapmobi.com
+0.0.0.0 u-in.cpc.heytapmobile.com
+0.0.0.0 bdapi-in.ads.heytapmobi.com
+0.0.0.0 iflow-in.browser.heytapmobile.com
+0.0.0.0 i-in.browser.heytapmobile.com
+0.0.0.0 conf-snake.esa.heytapmobi.com
+0.0.0.0 adx-in.ads.heytapmobi.com
+0.0.0.0 stg-data-in.ads.heytapmobi.com
+0.0.0.0 api-in.theme.heytapmobile.com
+0.0.0.0 api-in.theme.heytapmobile.com.lan
+0.0.0.0 htms.heytapmobile.com.lan
+0.0.0.0 i.feedback.foreign.coloros.com
+0.0.0.0 conn1.coloros.com
+0.0.0.0 110dot.in.teddymobile.cn
+0.0.0.0 rusfsg.coloros.com
+0.0.0.0 ifrus.coloros.com
+0.0.0.0 i.sau.foreign.coloros.com
+0.0.0.0 languagef.coloros.com
+0.0.0.0 smartcardf.apps.coloros.com
+
+# Might be used for oppo OTAs
+# otarecruitf.apps.coloros.com
+# lighthousefs.coloros.com
+# captcha-sec.oppomobile.com
+# otarecruitf-in.apps.coloros.com
+# otafsg-az.coloros.com
+# ifota.coloros.com
 
 
 #snapchat extras
@@ -188,6 +231,25 @@
 0.0.0.0 in-exappprt-stsdk.vivoglobal.com
 0.0.0.0 static.p.vivoglobal.com
 0.0.0.0 stp.vivoglobal.com
+0.0.0.0 domaincfg.vivo.com
+0.0.0.0 in-exapponrt-stsdk.vivoglobal.com
+0.0.0.0 news-abroad.vivo.com
+0.0.0.0 in-joviexscene.vivoglobal.com
+0.0.0.0 in-gsearch.vivoglobal.com
+0.0.0.0 in-assistant-sports.vivoglobal.com
+0.0.0.0 comm-api.vivoglobal.com
+0.0.0.0 st.eden.vivo.com.cn
+0.0.0.0 browserstatic.vivoglobal.com
+0.0.0.0 in-intelligent-favorite.vivoglobal.com
+0.0.0.0 vivofs-india-pub-1.oss-ap-south-1.aliyuncs.com
+0.0.0.0 in-subscribe.vivoglobal.com
+0.0.0.0 in-img-appstore.vivoglobal.com
+0.0.0.0 in-upload-appstore.vivoglobal.com
+0.0.0.0 in-info-appstore.vivoglobal.com
+0.0.0.0 in-olres.vivoglobal.com
+0.0.0.0 ex-assistant-poi.vivoglobal.com
+0.0.0.0 n-usrsys-api.vivoglobal.com
+0.0.0.0 st-romsp.vivoglobal.com
 
 
 #chinese domains/tracking
@@ -413,6 +475,7 @@
 0.0.0.0 stats.kde.org
 0.0.0.0 stats.hprofits.com
 0.0.0.0 stats.ghostery.net
+0.0.0.0 usa.mobhey.com
 
 
 #tinder
@@ -445,13 +508,20 @@
 
 
 #instagram extras
-	
+
+0.0.0.0 instagram.fixc2-1.fna.fbcdn.net
+0.0.0.0 instagram.fluh3-1.fna.fbcdn.net
+0.0.0.0 instagram.fruh4-1.fna.fbcdn.net
+0.0.0.0 instagram.fixc7-1.fna.fbcdn.net
+0.0.0.0 instagram.fyyc2-1.fna.fbcdn.net
+0.0.0.0 instagram.fjai3-1.fna.fbcdn.net
 0.0.0.0 instagram.fluh1-1.fna.fbcdn.net
 0.0.0.0 instagram.fixc4-1.fna.fbcdn.net
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net.lan
 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
 0.0.0.0 instagram.fluh2-1.fna.fbcdn.net
 0.0.0.0 b.i.instagram.com
+0.0.0.0 scontent.cdninstagram.com
 
 
 #emoji keyboard
