@@ -123,6 +123,7 @@
 0.0.0.0 api-in.store.heytapmobi.com
 0.0.0.0 conn1.oppomobile.com
 0.0.0.0 conn1.oppomobile.com.lan
+0.0.0.0 conn2.coloros.com
 0.0.0.0 dc.foreign.oppomobile.com
 0.0.0.0 i-in01a-ocloud.heytapmobile.com
 0.0.0.0 client-uc.heytapmobi.com
@@ -176,6 +177,7 @@
 0.0.0.0 i.sau.foreign.coloros.com
 0.0.0.0 languagef.coloros.com
 0.0.0.0 smartcardf.apps.coloros.com
+0.0.0.0 storeimg.heytapimg.com
 
 # Might be used for oppo OTAs
 # otarecruitf.apps.coloros.com
@@ -250,6 +252,7 @@
 0.0.0.0 ex-assistant-poi.vivoglobal.com
 0.0.0.0 n-usrsys-api.vivoglobal.com
 0.0.0.0 st-romsp.vivoglobal.com
+0.0.0.0 in-exapppnrt-stsdk.vivoglobal.com
 
 
 #chinese domains/tracking
@@ -476,6 +479,10 @@
 0.0.0.0 stats.hprofits.com
 0.0.0.0 stats.ghostery.net
 0.0.0.0 usa.mobhey.com
+0.0.0.0 jep-asset.akamaized.net
+0.0.0.0 mobilecrush.king.com
+0.0.0.0 c.siteswithcontent.com
+0.0.0.0 s-img.steepto.com
 
 
 #tinder
