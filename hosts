@@ -253,6 +253,7 @@
 0.0.0.0 n-usrsys-api.vivoglobal.com
 0.0.0.0 st-romsp.vivoglobal.com
 0.0.0.0 in-exapppnrt-stsdk.vivoglobal.com
+0.0.0.0 in-exapport-stsdk.vivoglobal.com
 
 
 #chinese domains/tracking
@@ -297,6 +298,7 @@
 0.0.0.0 appoptimize-dra.dbankcdn.com.home
 0.0.0.0 appdl2.dbankcdn.com
 
+
 #qq game tracking
 
 0.0.0.0 dldir1.qq.com
@@ -332,12 +334,13 @@
 0.0.0.0 pgepodownload.mediatek.com
 0.0.0.0 pepodownload.mediatek.com
 
+
 #qualcomm
 
 0.0.0.0 config.qms.quicinc.com
 
 
-#other tracking/popups
+#other ads/tracking/popups
 
 0.0.0.0 in.wzrkt.com
 0.0.0.0 xtrapath2.izatcloud.net
@@ -483,6 +486,11 @@
 0.0.0.0 mobilecrush.king.com
 0.0.0.0 c.siteswithcontent.com
 0.0.0.0 s-img.steepto.com
+0.0.0.0 zapr.in
+0.0.0.0 appmm.zapr.in
+0.0.0.0 submit.zapr.in
+0.0.0.0 admix.in
+0.0.0.0 api.admix.in
 
 
 #tinder
