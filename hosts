@@ -22,6 +22,7 @@
 0.0.0.0 resolver.msg.global.xiaomi.net
 0.0.0.0 idmb.app.chat.global.xiaomi.net
 0.0.0.0 idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
 0.0.0.0 idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
 0.0.0.0 thm.market.intl.xiaomi.com
 0.0.0.0 account.xiaomi.com
@@ -178,6 +179,13 @@
 0.0.0.0 languagef.coloros.com
 0.0.0.0 smartcardf.apps.coloros.com
 0.0.0.0 storeimg.heytapimg.com
+0.0.0.0 io91a-ocloud.heytapmobile.com
+0.0.0.0 img-intl-push.heytapimg.com
+0.0.0.0 i-in.magazine.heytapmobile.com
+0.0.0.0 apisnd.heytapmobi.com
+0.0.0.0 idapi.open.oppomobile.com
+0.0.0.0 stuck.foreign.oppomobile.com
+0.0.0.0 sgp-browser-oppomobile-pubgw-1324186298.ap-southeast-1.elb.amazonaws.com
 
 # Might be used for oppo OTAs
 # otarecruitf.apps.coloros.com
@@ -254,6 +262,20 @@
 0.0.0.0 st-romsp.vivoglobal.com
 0.0.0.0 in-exapppnrt-stsdk.vivoglobal.com
 0.0.0.0 in-exapport-stsdk.vivoglobal.com
+0.0.0.0 in-exstatic-vivofs.vivo.com
+0.0.0.0 in-st-expc.vivo.com
+0.0.0.0 p.vivoglobal.com
+0.0.0.0 www.vivo.com.wsglb0.com
+0.0.0.0 homepage.vivoglobal.com.wsglb0.com
+0.0.0.0 in-assistant-order.vivoglobal.com
+0.0.0.0 in-assistant-trip.vivoglobal.com
+0.0.0.0 asia-browserstatic.vivoglobal.com.wsglb0.com
+0.0.0.0 asia-browser.vivoglobal.com
+0.0.0.0 asia-browserstatic.vivoglobal.com
+0.0.0.0 asia-browser-cname.vivoglobal.com
+0.0.0.0 in-ali-browser-cname.vivoglobal.com
+0.0.0.0 st-exbrowser.vivoglobal.com
+0.0.0.0 homepagestatic.vivo.com.wsglb0.com
 
 
 #chinese domains/tracking
@@ -331,8 +353,10 @@
 
 #mediatek
 
-0.0.0.0 pgepodownload.mediatek.com
 0.0.0.0 pepodownload.mediatek.com
+0.0.0.0 qepodownload.mediatek.com
+0.0.0.0 pgepodownload.mediatek.com
+0.0.0.0 qgepodownload.mediatek.com
 
 
 #qualcomm
@@ -491,6 +515,11 @@
 0.0.0.0 submit.zapr.in
 0.0.0.0 admix.in
 0.0.0.0 api.admix.in
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 l3.aaxads.com
+0.0.0.0 c.aaxads.com
+0.0.0.0 prod.medo.pitchleads.com
+0.0.0.0 dsp-vast.unityads.unity3d.com
 
 
 #tinder
