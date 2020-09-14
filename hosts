@@ -276,6 +276,27 @@
 0.0.0.0 in-ali-browser-cname.vivoglobal.com
 0.0.0.0 st-exbrowser.vivoglobal.com
 0.0.0.0 homepagestatic.vivo.com.wsglb0.com
+0.0.0.0 in-vcode-api.vivoglobal.com
+0.0.0.0 v.g.l.inmobicdn.net
+0.0.0.0 news-abroad-backstage-interface-vivofs.vivoglobal.com
+0.0.0.0 in-news-abroad-backstage-interface.vivoglobal.com
+0.0.0.0 in-sms-api.vivoglobal.com
+0.0.0.0 in-domaincfg.vivoglobal.com
+0.0.0.0 external.appstore.vivo.com.cn
+0.0.0.0 in-third-appstore.vivoglobal.com
+0.0.0.0 ui.ff.avast.com
+0.0.0.0 auth.ff.avast.com
+0.0.0.0 in-exthemewsdl.vivoglobal.com
+0.0.0.0 theme.vivoglobal.com
+0.0.0.0 expstatisweb.vivo.com
+0.0.0.0 in-vnote.vivoglobal.com
+0.0.0.0 asia-download-api.vivoglobal.com
+0.0.0.0 asia-tipsstatic.vivoglobal.com
+0.0.0.0 in-tips.vivoglobal.com
+0.0.0.0 expweb.vivo.com
+0.0.0.0 in-gamecenter.vivoglobal.com
+0.0.0.0 in-adreq.vivoglobal.com
+0.0.0.0 sdk.api.bjshcw.com
 
 
 #chinese domains/tracking
