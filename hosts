@@ -186,6 +186,7 @@
 0.0.0.0 idapi.open.oppomobile.com
 0.0.0.0 stuck.foreign.oppomobile.com
 0.0.0.0 sgp-browser-oppomobile-pubgw-1324186298.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 classify-f.apps.coloros.com
 
 # Might be used for oppo OTAs
 # otarecruitf.apps.coloros.com
@@ -340,6 +341,7 @@
 0.0.0.0 openapi5.dbank.com
 0.0.0.0 appoptimize-dra.dbankcdn.com.home
 0.0.0.0 appdl2.dbankcdn.com
+0.0.0.0 ulog-sdk.gifshow.com
 
 
 #qq game tracking
@@ -385,9 +387,11 @@
 0.0.0.0 config.qms.quicinc.com
 
 
-#other ads/tracking/popups
+#other ads/tracking/popups/telemetry
 
 0.0.0.0 in.wzrkt.com
+0.0.0.0 in-spiky.wzrkt.com.lan
+0.0.0.0 in-spiky.c.com
 0.0.0.0 xtrapath2.izatcloud.net
 0.0.0.0 agoda.com
 0.0.0.0 bento.agoda.com
@@ -541,6 +545,17 @@
 0.0.0.0 c.aaxads.com
 0.0.0.0 prod.medo.pitchleads.com
 0.0.0.0 dsp-vast.unityads.unity3d.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 api.xyz-mv.com
+0.0.0.0 api.xyz-mv.com.lan
+0.0.0.0 browser-http-intake.logs.datadoghq.com
+0.0.0.0 api-sdk.datadome.co
+0.0.0.0 v10.events.data.microsoft.com 
+0.0.0.0 v10c.events.data.microsoft.com 
+0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 teams-events-data.trafficmanager.net
+0.0.0.0 teams.events.data.microsoft.com
 
 
 #tinder
