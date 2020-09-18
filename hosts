@@ -187,6 +187,11 @@
 0.0.0.0 stuck.foreign.oppomobile.com
 0.0.0.0 sgp-browser-oppomobile-pubgw-1324186298.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 classify-f.apps.coloros.com
+0.0.0.0 i.theme.exapi.oppo.com
+0.0.0.0 proxyf.apps.oppomobile.comconfig
+0.0.0.0 proxyf.apps.oppomobile.comconfig.lan
+0.0.0.0 stuck.foreign.oppomobile.com
+0.0.0.0 location.apps.oppomobile.com
 
 # Might be used for oppo OTAs
 # otarecruitf.apps.coloros.com
@@ -298,6 +303,29 @@
 0.0.0.0 in-gamecenter.vivoglobal.com
 0.0.0.0 in-adreq.vivoglobal.com
 0.0.0.0 sdk.api.bjshcw.com
+0.0.0.0 in-os-config-appstore.vivoglobal.com
+0.0.0.0 asia-magazineunlockstatic.vivoglobal.com
+0.0.0.0 in-magazineunlock.vivoglobal.com
+0.0.0.0 phoneidentifyex.vivoglobal.com
+0.0.0.0 in-update-appstore.vivoglobal.com
+0.0.0.0 vcode-od.vivo.com.cn
+0.0.0.0 vcode-api.vivo.com.cn
+0.0.0.0 in-wifi.vivoglobal.com
+0.0.0.0 in-search-appstore.vivoglobal.com
+0.0.0.0 asia-exfaq.vivo.com
+0.0.0.0 faq.vivo.com
+0.0.0.0 in-exstpay.vivo.com
+0.0.0.0 exappupgradecp.vivoglobal.com
+0.0.0.0 asia-st-expc.vivo.com
+0.0.0.0 wwwstatic.vivo.com.cn
+0.0.0.0 wwwstatic.vivo.com.cn.wsglb0.com
+0.0.0.0 in-exstpc.vivo.com
+0.0.0.0 shopstatic-in.vivo.com
+0.0.0.0 shopstatic-in.vivo.com.cmspeed.sched.apcdns.com
+0.0.0.0 asia-exstatic.vivo.com
+0.0.0.0 exstatic-in.vivo.com
+0.0.0.0 shop.vivo.com
+0.0.0.0 shop.vivo.com.wsglb0.com
 
 
 #chinese domains/tracking
@@ -412,6 +440,8 @@
 0.0.0.0 schemas.casa
 0.0.0.0 sharenotes.co
 0.0.0.0 event.shelljacket.us
+0.0.0.0 event.shelljacket.us.lan
+0.0.0.0 shelljacket.us.ipaddress.com
 0.0.0.0 api.hsselite.com
 0.0.0.0 script.4dex.io
 0.0.0.0 andbeyond.media
@@ -556,6 +586,7 @@
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 teams-events-data.trafficmanager.net
 0.0.0.0 teams.events.data.microsoft.com
+0.0.0.0 events.airtel.tv
 
 
 #tinder
