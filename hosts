@@ -14,7 +14,7 @@
 0.0.0.0 invalid.gjapplog.ucweb.com.lan
 
 
-#xiaomi
+#xiaomi apps and tracking
 
 0.0.0.0 i2-urc.io.mi.com
 0.0.0.0 i2.api.io.mi.com
@@ -109,7 +109,7 @@
 0.0.0.0 data.grammarly.com
 
 
-#oppo tracking
+#oppo apps and tracking
 
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 log-eap.coloros.com
@@ -223,7 +223,7 @@
 0.0.0.0 cf-st.sc-cdn.net
 
 
-#vivo tracking
+#vivo apps and tracking
 
 0.0.0.0 exappupgrade.vivoglobal.com
 0.0.0.0 sysupgrade-api.vivoglobal.com
@@ -673,7 +673,6 @@
 
 #facebook services logging
 0.0.0.0 graph.fbpigeon.com
-0.0.0.0 b-graph.facebook.com
 
 
 #gameloft tracking
