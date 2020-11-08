@@ -193,6 +193,7 @@
 0.0.0.0 proxyf.apps.oppomobile.comconfig.lan
 0.0.0.0 stuck.foreign.oppomobile.com
 0.0.0.0 location.apps.oppomobile.com
+0.0.0.0 conf-in-dc.heytapdl.com
 
 # Might be used for oppo OTAs
 # otarecruitf.apps.coloros.com
@@ -222,6 +223,9 @@
 0.0.0.0 loca.sc-jpl.com
 0.0.0.0 bolt-gcdn.sc-cdn.net
 0.0.0.0 cf-st.sc-cdn.net
+0.0.0.0 topic-sticker-vending.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 story-thumbnails.s3.amazonaws.com
 
 
 #vivo apps and tracking
@@ -327,6 +331,10 @@
 0.0.0.0 exstatic-in.vivo.com
 0.0.0.0 shop.vivo.com
 0.0.0.0 shop.vivo.com.wsglb0.com
+0.0.0.0 album-api.vivoglobal.com
+
+# Might be used for vivo OTAs
+0.0.0.0 ex-romsp-unifyconfig.vivoglobal.com
 
 
 #chinese domains/tracking
@@ -588,6 +596,11 @@
 0.0.0.0 teams-events-data.trafficmanager.net
 0.0.0.0 teams.events.data.microsoft.com
 0.0.0.0 events.airtel.tv
+0.0.0.0 config.unityads.unity3d.com.lan
+0.0.0.0 capture.trackjs.com
+0.0.0.0 get-web-sale-log.com
+0.0.0.0 track.venatusmedia.com
+0.0.0.0 capture.trackjs.com
 
 
 #tinder
