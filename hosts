@@ -229,6 +229,11 @@
 0.0.0.0 topic-sticker-vending.snapchat.com
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 story-thumbnails.s3.amazonaws.com
+0.0.0.0 gcp.api.snapchat.com.lan
+0.0.0.0 us-central1-gcp.api.snapchat.com.lan
+0.0.0.0 us-east4-gcp.api.snapchat.com.lan
+0.0.0.0 aws.api.snapchat.com.lan
+0.0.0.0 pro-accounts.snapchat.com
 
 
 #vivo apps and tracking
@@ -664,6 +669,16 @@
 0.0.0.0 instagram.fluh2-1.fna.fbcdn.net
 0.0.0.0 b.i.instagram.com
 0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 z-p42-instagram.c10r.facebook.com
+0.0.0.0 instagram.fsin8-2.fna.fbcdn.net
+0.0.0.0 instagram.faip1-1.fna.fbcdn.net
+0.0.0.0 scontent-dfw5-2.cdninstagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph.instagram.com.lan
+0.0.0.0 www.instagram.com
+0.0.0.0 instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 graphql.instagram.com
 
 
 #emoji keyboard
