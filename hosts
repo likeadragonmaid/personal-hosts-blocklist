@@ -24,6 +24,9 @@
 0.0.0.0 idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
 0.0.0.0 idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
 0.0.0.0 idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
+0.0.0.0 idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
 0.0.0.0 thm.market.intl.xiaomi.com
 0.0.0.0 account.xiaomi.com
 0.0.0.0 in.find.api.micloud.xiaomi.net
@@ -191,9 +194,9 @@
 0.0.0.0 i.theme.exapi.oppo.com
 0.0.0.0 proxyf.apps.oppomobile.comconfig
 0.0.0.0 proxyf.apps.oppomobile.comconfig.lan
-0.0.0.0 stuck.foreign.oppomobile.com
 0.0.0.0 location.apps.oppomobile.com
 0.0.0.0 conf-in-dc.heytapdl.com
+0.0.0.0 adx-in.ads.heytapmobile.com
 
 # Might be used for oppo OTAs
 # otarecruitf.apps.coloros.com
@@ -332,9 +335,17 @@
 0.0.0.0 shop.vivo.com
 0.0.0.0 shop.vivo.com.wsglb0.com
 0.0.0.0 album-api.vivoglobal.com
-
-# Might be used for vivo OTAs
 0.0.0.0 ex-romsp-unifyconfig.vivoglobal.com
+0.0.0.0 onrt-stsdk.vivoglobal.com
+0.0.0.0 monitor-stsdk.vivoglobal.com
+0.0.0.0 in-analyzer-appstore.vivoglobal.com
+0.0.0.0 stappupgrade.vivo.com.cn
+0.0.0.0 eu-exstatic-vivofs.vivo.com.wsglb0.com
+0.0.0.0 0.0.0.0 album-api.vivoglobal.com
+0.0.0.0 eu-exstatic-vivofs.vivo.com
+0.0.0.0 eu-exstatic.vivo.com
+0.0.0.0 eu-ali-cname-www.vivo.com
+0.0.0.0 apkselftxdl.vivoglobal.com
 
 
 #chinese domains/tracking
@@ -600,7 +611,13 @@
 0.0.0.0 capture.trackjs.com
 0.0.0.0 get-web-sale-log.com
 0.0.0.0 track.venatusmedia.com
-0.0.0.0 capture.trackjs.com
+0.0.0.0 logx.optimizely.com
+0.0.0.0 iblogbox.com
+0.0.0.0 iblogbox.github.io
+0.0.0.0 plbslog.umeng.com
+0.0.0.0 ulogs.umeng.com
+0.0.0.0 api.vlognow.me
+0.0.0.0 rum-http-intake.logs.datadoghq.com
 
 
 #tinder
