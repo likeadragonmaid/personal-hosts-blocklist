@@ -4,8 +4,6 @@
 
 I have made this hosts list by running pi hole on my network along with some domains that I added manually later on. These hosts serve as an additional list to what I already use as listed below:
 
-https://mirror1.malwaredomains.com/files/justdomains
-
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 
 https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-instagram.txt
