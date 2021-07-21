@@ -656,29 +656,29 @@
 
 #instagram extras
 
-0.0.0.0 instagram.fixc2-1.fna.fbcdn.net
-0.0.0.0 instagram.fluh3-1.fna.fbcdn.net
-0.0.0.0 instagram.fruh4-1.fna.fbcdn.net
-0.0.0.0 instagram.fixc7-1.fna.fbcdn.net
-0.0.0.0 instagram.fyyc2-1.fna.fbcdn.net
-0.0.0.0 instagram.fjai3-1.fna.fbcdn.net
-0.0.0.0 instagram.fluh1-1.fna.fbcdn.net
-0.0.0.0 instagram.fixc4-1.fna.fbcdn.net
-0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net.lan
-0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
-0.0.0.0 instagram.fluh2-1.fna.fbcdn.net
-0.0.0.0 b.i.instagram.com
-0.0.0.0 scontent.cdninstagram.com
-0.0.0.0 z-p42-instagram.c10r.facebook.com
-0.0.0.0 instagram.fsin8-2.fna.fbcdn.net
-0.0.0.0 instagram.faip1-1.fna.fbcdn.net
-0.0.0.0 scontent-dfw5-2.cdninstagram.com
-0.0.0.0 graph.instagram.com
-0.0.0.0 graph.instagram.com.lan
-0.0.0.0 www.instagram.com
-0.0.0.0 instagram.com
-0.0.0.0 i.instagram.com
-0.0.0.0 graphql.instagram.com
+# 0.0.0.0 instagram.fixc2-1.fna.fbcdn.net
+# 0.0.0.0 instagram.fluh3-1.fna.fbcdn.net
+# 0.0.0.0 instagram.fruh4-1.fna.fbcdn.net
+# 0.0.0.0 instagram.fixc7-1.fna.fbcdn.net
+# 0.0.0.0 instagram.fyyc2-1.fna.fbcdn.net
+# 0.0.0.0 instagram.fjai3-1.fna.fbcdn.net
+# 0.0.0.0 instagram.fluh1-1.fna.fbcdn.net
+# 0.0.0.0 instagram.fixc4-1.fna.fbcdn.net
+# 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net.lan
+# 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
+# 0.0.0.0 instagram.fluh2-1.fna.fbcdn.net
+# 0.0.0.0 b.i.instagram.com
+# 0.0.0.0 scontent.cdninstagram.com
+# 0.0.0.0 z-p42-instagram.c10r.facebook.com
+# 0.0.0.0 instagram.fsin8-2.fna.fbcdn.net
+# 0.0.0.0 instagram.faip1-1.fna.fbcdn.net
+# 0.0.0.0 scontent-dfw5-2.cdninstagram.com
+# 0.0.0.0 graph.instagram.com
+# 0.0.0.0 graph.instagram.com.lan
+# 0.0.0.0 www.instagram.com
+# 0.0.0.0 instagram.com
+# 0.0.0.0 i.instagram.com
+# 0.0.0.0 graphql.instagram.com
 
 
 #emoji keyboard
