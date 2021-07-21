@@ -623,6 +623,10 @@
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 api.vlognow.me
 0.0.0.0 rum-http-intake.logs.datadoghq.com
+0.0.0.0 bebi.com
+0.0.0.0 adskeeper.com
+0.0.0.0 gogames.me
+0.0.0.0 bidgear.com
 
 
 #tinder
