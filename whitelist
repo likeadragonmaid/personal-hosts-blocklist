@@ -27,11 +27,17 @@ s.ytimg.com
 api.weather.com
 
 # Apple app store
+
 is3-ssl.mzstatic.com
 is1-ssl.mzstatic.com
 is4-ssl.mzstatic.com
 is2-ssl.mzstatic.com
 is5-ssl.mzstatic.com
 
-# Twitter
+# Twitter media
+
 pbs.twimg.com
+
+# Youtube channel icons
+
+yt3.ggpht.com
