@@ -1,11 +1,9 @@
 play.googleapis.com
 www.youtube.com
-linkedin.com
 facebook.com
 m.facebook.com
 www.facebook.com
 static.xx.fbcdn.net
-www.linkedin.com
 gql.reddit.com
 firebaseremoteconfig.googleapis.com
 external-preview.redd.it
@@ -26,6 +24,7 @@ fonts.gstatic.com
 s.ytimg.com
 api.weather.com
 
+
 # Apple app store
 
 is3-ssl.mzstatic.com
@@ -34,43 +33,60 @@ is4-ssl.mzstatic.com
 is2-ssl.mzstatic.com
 is5-ssl.mzstatic.com
 
+
 # Twitter media
 
 pbs.twimg.com
+
 
 # YouTube channel icons
 
 yt3.ggpht.com
 
+
 # YouTube embedded player
 
 www.youtube-nocookie.com
 
+
 # Spotify web player
 spclient.wg.spotify.com
+
 
 # GSMArena CSS
 
 fdn.gsmarena.com
 fdn2.gsmarena.com
 
+
 # Languagepod101 email buttons
 
 go2.languagepod101.com
+
 
 # Yahoo Mail
 
 mail.yahoo.com
 
+
 # Samsung images
 
 images.samsung.com
+
 
 # Knowyoumeme
 
 i.kym-cdn.com
 s.kym-cdn.com
 
+
 # BiliBili
 
 bilibili.com
+
+
+# Linkedin
+
+linkedin.com
+www.linkedin.com
+static-exp2.licdn.com
