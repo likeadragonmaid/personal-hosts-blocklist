@@ -1,5 +1,4 @@
 play.googleapis.com
-www.youtube.com
 facebook.com
 m.facebook.com
 www.facebook.com
@@ -39,13 +38,11 @@ is5-ssl.mzstatic.com
 pbs.twimg.com
 
 
-# YouTube channel icons
+# YouTube
 
+m.youtube.com
+www.youtube.com
 yt3.ggpht.com
-
-
-# YouTube embedded player
-
 www.youtube-nocookie.com
 
 
